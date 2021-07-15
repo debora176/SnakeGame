@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+}
+body{
+  background-color: #B0E0E6	;
+  width: 95;
+  height: 95;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+header{
+  background-color: 	#2F4F4F;
+  text-align: center;
+  padding-bottom: 15px;
+  font-size: 30px;
+  padding-top: 10px;
+  color: #FF1493;
+  margin-bottom: 20px;
+
+}
